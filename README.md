@@ -2,7 +2,7 @@
 
 # Predicting NBA Playoff Qualification from Early-Season Performance – ML Classification
 
-**TL;DR:** I built a machine learning system to predict if an NBA team will make the playoffs using only the first 40% of their season. Using an SMO (SVM) model and a custom-built Schedule Strength feature, I achieved 79.57% accuracy across 73 years of historical data, proving that early-season performance is a highly reliable predictor of final outcomes.
+**TL;DR:** I built a machine learning system to predict if an NBA team will make the playoffs using only the first 40% of their season. Using an SMO (SVM) model and a custom-built Schedule Strength feature, I achieved 79.57% accuracy across 73 years of historical data, proving that early-season performance can be a reliable predictor of final outcomes.
 
 ---
 
