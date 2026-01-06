@@ -21,6 +21,7 @@ By restricting my features to this early window, I enforced a realistic constrai
 
 ### Data Retrieval
 I extracted 63,157 game-level records from `RAW-NBA-Game-Results.csv`, which contains historical logs from 1947–2020.
+The data can be found here: https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores
 
 ### Key Predictive Metrics
 For each team-season, I calculated eight key metrics based strictly on the first 40% window:
