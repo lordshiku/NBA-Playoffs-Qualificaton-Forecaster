@@ -1,5 +1,7 @@
 # **Predicting NBA Playoff Qualification from Early-Season Performance**
 
+to access the same full writeup WITH images, head to this doc: https://docs.google.com/document/d/16iDd7N6HonkB_2oRTqJF4WckYHj0JI2BfT_PAAZx_WM/edit?usp=sharing
+
 ## **1\. Introduction**
 
 Predicting playoff qualification early in the season is a practical, non-trivial ML problem. Teams and analysts care about early, actionable signals, before the full season plays out, for decisions around rotations, trades, and expectations. Also, I really care about this stuff. I'm a huge fan of the NBA, and my warriors are not looking too hot this year, so I need to know whether I should buy tickets for the playoffs or not early on :).
